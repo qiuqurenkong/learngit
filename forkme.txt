@@ -8,3 +8,5 @@ drwxr-xr-x@ 48 zhoujin  staff  1632 11 11 20:51 ..
 -rw-r--r--   1 zhoujin  staff   404 11 11 20:52 id_rsa.pub
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhpbxFwI4GyyjWIM5Z5SYlwZZYYsywgJtQhB7VfAMm7dqjIKQZBunoN7nmaoglHX4evMBAeKPfmI6F2P+b3IiUpSbsAWsO8epPAZuWT7qyCTPr4nb1Ib9TQ3DAdXvGwqwPYqlGd3Jg2eYGkvV2UvGyubBgbvnmvCjQffguiifvJNTnVBryqGybYQ5iMP6lRTkgb2LJMQ906I2GrWkVw7unp/FQb4IPAbnVRBFFKHAn+A6OXh3qoAHlTlUWDTVcvjGjJxgSDnFCHhZnl9DfoCfWXyytA0LhJxB4idZqvifo22+uKDPMJV2DInPmUkxx0nnK/iTIsOtTOT4LMqNCdLdt jin2604501@hotmail.com
+
+add from txt editor
